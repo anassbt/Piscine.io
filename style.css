@@ -1,0 +1,147 @@
+/* Smartphones ----------- */
+@media only screen and (max-width : 320px) {
+/* Styles */
+width: 100%;
+}
+
+/* Desktops and laptops ----------- */
+@media only screen  and (min-width : 1224px) {
+/* Styles */
+width: 100%;
+}
+
+
+body {
+  background-color: lightblue;
+  margin: 0;
+  padding: 0;
+}
+header {
+  background-color: coral;
+  font-family: 'Slabo 27px', serif;
+}
+
+body {
+  font-family: 'Prata', serif;
+}
+
+h1 {
+  text-align: right;
+  width: 60%;
+  display: inline-block;
+}
+
+header h2 {
+  text-align: right;
+  width: 58%;
+  display: inline-block;
+}
+
+header img {
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 20%;
+  height: auto;
+}
+
+footer {
+  background-color: blue;
+  font-family: 'PT Sans', sans-serif;
+}
+
+.MenuHeader {
+  border-style: solid;
+}
+.MenuHeader ul{
+  display: inline-block;
+}
+.Menu li {
+  display: inline-block;
+  text-align: center;
+  background-color: red;
+  border: 1px solid black;
+  padding: 20px;
+  margin: 20px;
+  box-shadow: 10px 10px 5px #656565;
+}
+
+
+footer p {
+  font-size: 10px
+  font-family: 'Concert One';
+}
+
+aside {
+  display: inline-block;
+  width: 50%;
+  height: 70%;
+}
+
+main {
+  display: inline-block;
+  width: 49%;
+  top: 0;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+table {
+  display: inline-block;
+}
+
+.Reassurance {
+  width: 50%;
+}
+
+.Reparation {
+  display: inline-block;
+}
+.ReparationTable {
+  display: inline-block;
+  width: 50%;
+}
+
+.Remplacements {
+  display: inline-block;
+}
+
+.Piscine1 {
+  width: 400px;
+}
+
+.Piscine2 {
+  width: 400px;
+}
+
+.RemplacementsTable {
+  display: inline-block;
+  width: 50%;
+}
+
+.Installations {
+  display: inline-block;
+}
+
+.InstallationsTable {
+  display: inline-block;
+  width: 50%;
+}
+
+.coordonnees {
+  display: inline-block;
+}
+
+.Main2 {
+  position: relative;
+}
+
+.contact {
+  display: inline-block;
+  top: 0;
+  position: relative;
+}
